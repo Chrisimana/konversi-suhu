@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2024-10-09 19:18:04",
+    "nilai_awal": 40.0,
+    "satuan_awal": "C",
+    "nilai_hasil": 104.0,
+    "satuan_hasil": "F"
+  },
+  {
+    "timestamp": "2024-10-09 19:18:09",
+    "nilai_awal": 40.0,
+    "satuan_awal": "C",
+    "nilai_hasil": 32.0,
+    "satuan_hasil": "R"
+  },
+  {
+    "timestamp": "2024-10-09 19:18:11",
+    "nilai_awal": 40.0,
+    "satuan_awal": "C",
+    "nilai_hasil": 313.15,
+    "satuan_hasil": "K"
+  },
+  {
+    "timestamp": "2024-10-09 19:18:16",
+    "nilai_awal": 40.0,
+    "satuan_awal": "K",
+    "nilai_hasil": -233.15,
+    "satuan_hasil": "C"
+  },
+  {
+    "timestamp": "2024-10-09 19:18:18",
+    "nilai_awal": 40.0,
+    "satuan_awal": "R",
+    "nilai_hasil": 50.0,
+    "satuan_hasil": "C"
+  },
+  {
+    "timestamp": "2024-10-09 19:18:19",
+    "nilai_awal": 40.0,
+    "satuan_awal": "F",
+    "nilai_hasil": 4.44,
+    "satuan_hasil": "C"
+  },
+  {
+    "timestamp": "2024-10-09 19:18:28",
+    "nilai_awal": 40.0,
+    "satuan_awal": "F",
+    "nilai_hasil": 3.56,
+    "satuan_hasil": "R"
+  },
+  {
+    "timestamp": "2025-11-07 09:20:07",
+    "nilai_awal": 100.0,
+    "satuan_awal": "C",
+    "nilai_hasil": 373.15,
+    "satuan_hasil": "K"
+  },
+  {
+    "timestamp": "2025-11-07 09:20:15",
+    "nilai_awal": 100.0,
+    "satuan_awal": "K",
+    "nilai_hasil": -173.15,
+    "satuan_hasil": "C"
+  }
+]
