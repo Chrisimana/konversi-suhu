@@ -61,5 +61,47 @@
     "satuan_awal": "K",
     "nilai_hasil": -173.15,
     "satuan_hasil": "C"
+  },
+  {
+    "timestamp": "2025-11-23 22:14:26",
+    "nilai_awal": 12.0,
+    "satuan_awal": "C",
+    "nilai_hasil": 53.6,
+    "satuan_hasil": "F"
+  },
+  {
+    "timestamp": "2025-11-23 22:14:28",
+    "nilai_awal": 12.0,
+    "satuan_awal": "C",
+    "nilai_hasil": 9.6,
+    "satuan_hasil": "R"
+  },
+  {
+    "timestamp": "2025-11-23 22:14:30",
+    "nilai_awal": 12.0,
+    "satuan_awal": "C",
+    "nilai_hasil": 12.0,
+    "satuan_hasil": "C"
+  },
+  {
+    "timestamp": "2025-11-23 22:14:31",
+    "nilai_awal": 12.0,
+    "satuan_awal": "C",
+    "nilai_hasil": 285.15,
+    "satuan_hasil": "K"
+  },
+  {
+    "timestamp": "2025-11-23 22:14:33",
+    "nilai_awal": 12.0,
+    "satuan_awal": "K",
+    "nilai_hasil": -261.15,
+    "satuan_hasil": "C"
+  },
+  {
+    "timestamp": "2025-11-23 22:14:39",
+    "nilai_awal": 12.0,
+    "satuan_awal": "F",
+    "nilai_hasil": -11.11,
+    "satuan_hasil": "C"
   }
 ]

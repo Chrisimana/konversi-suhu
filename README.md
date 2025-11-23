@@ -10,8 +10,6 @@
 
 **Aplikasi konversi suhu dengan GUI modern dan penyimpanan riwayat**
 
-[Fitur](#-fitur) • [Instalasi](#-instalasi) • [Penggunaan](#-penggunaan) • [Dokumentasi](#-dokumentasi) 
-
 </div>
 
 ## 📋 Daftar Isi
@@ -148,19 +146,6 @@ python main.py
 
 ## 📚 Dokumentasi
 
-### Workflow Konversi
-
-```mermaid
-graph TD
-    A[User Input] --> B[Validasi Input]
-    B --> C{Konversi Suhu}
-    C --> D[Proses Konversi]
-    D --> E[Format Hasil]
-    E --> F[Simpan ke History]
-    F --> G[Tampilkan Hasil]
-    G --> H[Update GUI]
-```
-
 ### Rumus Konversi yang Didukung
 
 | Dari | Ke | Rumus |
@@ -178,7 +163,6 @@ graph TD
 | Kelvin | Fahrenheit | `(K - 273.15) × 9/5 + 32` |
 | Kelvin | Reamur | `(K - 273.15) × 4/5` |
 
-
 ### File Descriptions
 
 | File | Description |
@@ -187,6 +171,7 @@ graph TD
 | `konversi_suhu.py` | Kelas untuk semua fungsi konversi suhu |
 | `history_manager.py` | Mengelola penyimpanan dan load riwayat |
 | `gui.py` | Implementasi antarmuka pengguna dengan Tkinter |
+
 
 ## 💡 Contoh Penggunaan
 
